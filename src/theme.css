@@ -1,0 +1,19 @@
+@theme {
+  --color-brand-50: oklch(97.08% 0.015 275.72);
+  --color-brand-600: oklch(54.62% 0.215 274.49);
+  --color-brand-700: oklch(48.84% 0.214 276.9);
+  --font-sans:
+    'Inter',
+    'Segoe UI',
+    Roboto,
+    Helvetica,
+    Arial,
+    sans-serif,
+    'Apple Color Emoji',
+    'Segoe UI Emoji',
+    'Segoe UI Symbol';
+}
+
+:root {
+  color-scheme: light;
+}
